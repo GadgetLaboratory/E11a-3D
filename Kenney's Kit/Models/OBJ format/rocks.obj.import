@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocks.obj-7139119966ca46ffe6090a6ade8cddb2.mesh"
+
+[deps]
+
+files=[ "res://.import/rocks.obj-7139119966ca46ffe6090a6ade8cddb2.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/rocks.obj"
+dest_files=[ "res://.import/rocks.obj-7139119966ca46ffe6090a6ade8cddb2.mesh", "res://.import/rocks.obj-7139119966ca46ffe6090a6ade8cddb2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

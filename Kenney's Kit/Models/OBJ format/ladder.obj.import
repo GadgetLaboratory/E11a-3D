@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ladder.obj-0d0df37e74d4044d7e74cb3d53adc21b.mesh"
+
+[deps]
+
+files=[ "res://.import/ladder.obj-0d0df37e74d4044d7e74cb3d53adc21b.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/ladder.obj"
+dest_files=[ "res://.import/ladder.obj-0d0df37e74d4044d7e74cb3d53adc21b.mesh", "res://.import/ladder.obj-0d0df37e74d4044d7e74cb3d53adc21b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

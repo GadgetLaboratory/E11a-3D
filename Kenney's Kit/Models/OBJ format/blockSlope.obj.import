@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSlope.obj-1b010b6e80b3a09ac9cc7fa51c07d7bc.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSlope.obj-1b010b6e80b3a09ac9cc7fa51c07d7bc.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/blockSlope.obj"
+dest_files=[ "res://.import/blockSlope.obj-1b010b6e80b3a09ac9cc7fa51c07d7bc.mesh", "res://.import/blockSlope.obj-1b010b6e80b3a09ac9cc7fa51c07d7bc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

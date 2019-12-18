@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSnowSlopeHalf.obj-75a8fb2375ef2b219ed0d862d7651ff4.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSnowSlopeHalf.obj-75a8fb2375ef2b219ed0d862d7651ff4.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/blockSnowSlopeHalf.obj"
+dest_files=[ "res://.import/blockSnowSlopeHalf.obj-75a8fb2375ef2b219ed0d862d7651ff4.mesh", "res://.import/blockSnowSlopeHalf.obj-75a8fb2375ef2b219ed0d862d7651ff4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

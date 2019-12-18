@@ -1,16 +1,8 @@
 # E11a-3D
-This is the first Godot 3D exercise. Because it is so excellent, I would like you to follow the Godot 101: Intro to 3D tutorial from KidsCanCode.
 
-The hardest part of working with a 3D project in Godot, at least initially, will be learning how to navigate the 3D Viewport. Although I expect you to turn in the results of the the third tutorial video, I would strongly recommend that you watch (and follow along with) all three videos in order.
+Hey, Larry here.
 
-First, **fork and clone** this repository. Then, open Godot and Import a project. Find the location of this repository in the Godot file picker and then open the project.godot file.
+So, uh... pretty nick of time, eh?
+Something tells me I'm not catching up all the way, by now.  But I'm at least gonna get into the C ranking, and hey, considering I didn't have a laptop this year?  I think that's not half bad.
 
-When the time comes, the tutorial will instruct you to download a kit of 3D assets from kenney.nl. Those assets are available here: [https://kenney.nl/assets/platformer-kit](https://kenney.nl/assets/platformer-kit). Make sure you download it (or copy it) into your project folder and then unzip it there.
-
-The exercise is to produce the sphere character (with mouse and keyboard controls) that can navigate a simple terrain. The directions to create that should be well-explained in the following videos:
-
- * [Godot 101: Intro to 3D (part 1)](https://www.youtube.com/watch?v=SQ7soQ-N-eQ)
- * [Godot 101: Intro to 3D (part 2): Importing 3D Models](https://www.youtube.com/watch?v=3lWro1V0klY)
- * [Godot 101: Intro to 3D (part 3): Kinematic Character Movement](https://www.youtube.com/watch?v=ickZ_Genr7A)
- 
- When you have completed the exercise, save the Scenes, edit your LICENSE and README, commit everything to Github, and turn in the URL of your repository on Canvas.
+But anyway.  Here, I did the exercise and the thing.  Only now have I started to learn how this program really has begun to work, and if I have ANY measure of time left at all, I think this will be a big help to my Breakout project.  Thing is... I don't think I have much time left, what with another paper in another class creeping ever closer.  I can only hope that I finish that project fast enough to be able to make a difference.

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fence.obj-bbb94fdb76333c450d04a7dccbfad09e.mesh"
+
+[deps]
+
+files=[ "res://.import/fence.obj-bbb94fdb76333c450d04a7dccbfad09e.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/fence.obj"
+dest_files=[ "res://.import/fence.obj-bbb94fdb76333c450d04a7dccbfad09e.mesh", "res://.import/fence.obj-bbb94fdb76333c450d04a7dccbfad09e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

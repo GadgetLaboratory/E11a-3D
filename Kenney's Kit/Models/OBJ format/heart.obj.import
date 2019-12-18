@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/heart.obj-55d7f49833f8011d7b8116028191267b.mesh"
+
+[deps]
+
+files=[ "res://.import/heart.obj-55d7f49833f8011d7b8116028191267b.mesh" ]
+
+source_file="res://Kenney's Kit/Models/OBJ format/heart.obj"
+dest_files=[ "res://.import/heart.obj-55d7f49833f8011d7b8116028191267b.mesh", "res://.import/heart.obj-55d7f49833f8011d7b8116028191267b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
